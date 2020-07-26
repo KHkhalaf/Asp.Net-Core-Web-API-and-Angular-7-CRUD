@@ -13,8 +13,6 @@
  
 
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=fom80TujpYQ
-" target="_blank"><img src="http://img.youtube.com/vi/fom80TujpYQ/0.jpg" 
-alt="Video Tutorial for Asp.Net Core Web API and Angular 7 CRUD" width="500" height="400" border="10" /></a>
+ <a target="_blank"><img src="http://img.youtube.com/vi/fom80TujpYQ/0.jpg" = width="500" height="400" border="10" /></a>
 
 
