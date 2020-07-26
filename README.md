@@ -13,6 +13,5 @@
  
 
  
- <a target="_blank"><img src="http://img.youtube.com/vi/fom80TujpYQ/0.jpg" = width="500" height="400" border="10" /></a>
-
+![alt text](http://img.youtube.com/vi/fom80TujpYQ/0.jpg)
 
